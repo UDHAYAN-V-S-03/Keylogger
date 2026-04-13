@@ -1,0 +1,10 @@
+pynput
+requests
+pyautogui
+python-xlib
+Pillow
+geocoder
+pyperclip
+
+# sudo apt install xdotool
+# sudo apt install v4l-utils
